@@ -14,7 +14,7 @@
 #conditions
 # CONDITIONAL STATEMENTS
 # SWITCH STATEMENT
-$day = ""
+$day = "Monday"
 switch ($day) {
     "Monday" {Write-Host "Start of the week"}
     "Wednesday" {Write-Host "Midweek"}
