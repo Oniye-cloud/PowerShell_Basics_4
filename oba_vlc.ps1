@@ -19,7 +19,7 @@ if ($age -ge 18){
     Write-Host "you can vote"
 
 }else{
-        Write-Host "you can not vote"
+        Write-Host "you can not vote2"
 
 }
 
