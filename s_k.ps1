@@ -9,9 +9,9 @@
 # Write-Host  "even num are $num"}
 
 
-$num = "20"
-if ($num -le 18){
-    Write-Host "underage"
-}else {
-    Write-Host "you are eligible"
-}
+# $num = "20"
+# if ($num -le 18){
+#     Write-Host "underage"
+# }else {
+#     Write-Host "you are eligible"
+# }
